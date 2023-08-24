@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Josepogers
-- 👀 I’m interested in ...BackEnd, Django, python
-- 🌱 I’m currently learning ...
+I- 👋 Hi, I’m @Josepogers
+- 👀 I’m interested in ...BackEnd
+- 🌱 I’m currently learning ...Django
 - 💞️ I’m looking to collaborate on ...none
 - 📫 How to reach me ...
 - My whatsapp: +55 (89) 994532663
