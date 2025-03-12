@@ -1,9 +1,11 @@
-I- 👋 Hi, I’m @Josepogers
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning react and react-native
-- 📫 How to reach me through my linkedin
-- My linkedin https://www.linkedin.com/in/jos%C3%A9-francisco-ara%C3%BAjo-911879265/
-- My whatsapp: +55 (89) 994532663
+## 👋 Olá, Sou o Josepogers
+
+👀 Estou interessado em desenvolvimento mobile e web  
+🌱 Atualmente estudo e desenvolvo com Flutter e Node.js  
+📫 Você pode entrar em contato comigo através de:  
+🔗 Meu LinkedIn: www.linkedin.com/in/josé-francisco-araújo  
+📱 Meu WhatsApp: +55 (89) 99453-2663  
+📧 E-mail: josefranciscodevpi@gmail.com
 
 <!---
 Josepogers/Josepogers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
