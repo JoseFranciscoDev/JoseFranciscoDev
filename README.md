@@ -2,7 +2,7 @@
 
 👀 Estou interessado em desenvolvimento mobile e web  
 🌱 Atualmente estudo e desenvolvo com Flutter e Node.js  
-📫 Você pode entrar em contato comigo através de:  
+📫 Você pode entrar em contato comigo através do:  
 🔗 Meu LinkedIn: www.linkedin.com/in/josé-francisco-araújo  
 📱 Meu WhatsApp: +55 (89) 99453-2663  
 📧 E-mail: josefranciscodevpi@gmail.com
